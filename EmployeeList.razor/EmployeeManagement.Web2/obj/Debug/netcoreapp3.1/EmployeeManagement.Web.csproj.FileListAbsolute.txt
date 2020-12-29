@@ -1,0 +1,11 @@
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.csprojAssemblyReference.cache
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.AssemblyInfoInputs.cache
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.AssemblyInfo.cs
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.csproj.CoreCompileInputs.cache
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.RazorComponent.input.cache
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeList.razor.g.cs
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web2\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
