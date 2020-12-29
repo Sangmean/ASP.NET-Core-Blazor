@@ -1,7 +1,6 @@
 C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web\bin\Debug\netstandard2.0\EmployeeManagement.Models.deps.json
 C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web\bin\Debug\netstandard2.0\EmployeeManagement.Models.dll
 C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web\bin\Debug\netstandard2.0\EmployeeManagement.Models.pdb
-C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web\obj\Debug\netstandard2.0\EmployeeManagement.Models.csprojAssemblyReference.cache
 C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web\obj\Debug\netstandard2.0\EmployeeManagement.Models.AssemblyInfoInputs.cache
 C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web\obj\Debug\netstandard2.0\EmployeeManagement.Models.AssemblyInfo.cs
 C:\Users\sangm\OneDrive\Desktop\Blazor\Sangmean\ASP.NET-Core-Blazor\EmployeeList.razor\EmployeeManagement.Web\obj\Debug\netstandard2.0\EmployeeManagement.Models.csproj.CoreCompileInputs.cache

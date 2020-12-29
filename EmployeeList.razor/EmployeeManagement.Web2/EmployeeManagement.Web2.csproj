@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>EmployeeManagement.Web2</AssemblyName>
+    <RootNamespace>EmployeeManagement.Web2</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
